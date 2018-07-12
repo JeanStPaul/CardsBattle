@@ -1,0 +1,6 @@
+C:\Users\JDom\Documents\Visual Studio 2013\Projects\CardsBattle\CardsBattle\bin\CardsBattle.dll.config
+C:\Users\JDom\Documents\Visual Studio 2013\Projects\CardsBattle\CardsBattle\bin\CardsBattle.dll
+C:\Users\JDom\Documents\Visual Studio 2013\Projects\CardsBattle\CardsBattle\bin\CardsBattle.pdb
+C:\Users\JDom\Documents\Visual Studio 2013\Projects\CardsBattle\CardsBattle\obj\Debug\CardsBattle.csprojResolveAssemblyReference.cache
+C:\Users\JDom\Documents\Visual Studio 2013\Projects\CardsBattle\CardsBattle\obj\Debug\CardsBattle.dll
+C:\Users\JDom\Documents\Visual Studio 2013\Projects\CardsBattle\CardsBattle\obj\Debug\CardsBattle.pdb
